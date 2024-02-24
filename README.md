@@ -1,61 +1,46 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
+# Startup - Free Next.js Startup Website Template
 
-# Bluise - A Nuxt.js & Netlify CMS boilerplate.
+Startup free, open-source, and premium-quality startup website template for Next.js comes with everything you need to launch a startup, business, or SaaS website, including all essential sections, components, and pages.
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
+If you're looking for a high-quality and visually appealing, feature-rich Next.js Template for your next startup, SaaS, or business website, this is the perfect choice and starting point for you!
 
-So far we've got:
+### ✨ Key Features
+- Crafted for Startup and SaaS Business
+- Next.js 13 and Tailwind CSS
+- All Essential Business Sections and Pages
+- High-quality and Clean Design
+- Dark and Light Version
+- TypeScript Support
+and Much More ...
 
-- Blog w/ posts, including pagination.
-- Configurable manifest & global settings.
-- CSS Markdown (Thanks to [https://github.com/iandinwoodie/github-markdown-tailwindcss/blob/master/markdown.css]).
-- Dynamic pages.
-- PWA ready.
-- SEO ready for posts & pages.
-- Signup form (using Netlify Forms).
-- Tools (Commitlint, Husky).
-- Typescript.
+### [🔥 Get Startup Pro](https://nextjstemplates.com/templates/saas-starter-startup)
 
-Few things I'd like to add in the future:
+[![Startup Pro](https://cdn.nextjstemplates.com/Startup-Pro---Next.js-Starter-Template-for-SaaS-Startups-282e26f7-f543-4ae4-a777-ac306c08cce8.png)](https://nextjstemplates.com/templates/saas-starter-startup)
 
-- Contact form under \_slug.
-- Dynamic sections/widgets.
-- Responsive CSS markdown.
-- Tests
+Startup Pro - Expertly crafted for fully-functional, high-performing SaaS startup websites. Comes with with Authentication, Database, Blog, and all the essential integrations necessary for SaaS business sites.
 
-## Quickstart
 
-### Prerequisites
+### [🚀 View Free Demo](https://startup.nextjstemplates.com/)
 
-- [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-tab)
-- [Node.js](https://nodejs.org/en/)
+### [🚀 View Pro Demo](https://startup-pro.nextjstemplates.com/)
 
-```bash
-# ensure you have the prerequisites
-# install
-brew install node && brew install yarn
+### [📦 Download](https://nextjstemplates.com/templates/startup)
 
-# OR update
-brew update && brew upgrade && brew install yarn
+### [🔥 Get Pro](https://nextjstemplates.com/templates/saas-starter-startup)
 
-# install dependencies
-yarn install
+### [🔌 Documentation](https://nextjstemplates.com/docs)
 
-# serve with hot reload at localhost:3000
-yarn dev
+### ⚡ Deploy Now
 
-# build for production with minification
-yarn generate
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fstartup-nextjs)
 
-# run all tests
-yarn test
-```
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/startup-nextjs)
 
-### Using Netlify CMS
 
-1. Deploy to Netlify.
-2. Enable Identity under Settings.
-3. Configure registration preferences & external providers if needed.
-4. Enable Git Gateway.
+### 📄 License
+Startup is 100% free and open-source, feel free to use with your personal and commercial projects.
 
-_Note: You'll need to specify the Netlify URL when browsing the admin page locally._
+### 💜 Support
+If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
+
+### ✨ Explore and Download - Free [Next.js Templates](https://nextjstemplates.com)
