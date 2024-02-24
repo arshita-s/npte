@@ -15,7 +15,7 @@ const RankingsPage = () => {
     <>
       <Breadcrumb
         pageName="NPTE Rankings"
-        description="This page is under construction. In the meantime, you can see in the most up-to-date rankings below."
+        description="This page is under construction. In the meantime, you can see the most up-to-date rankings below."
       />
       <section className="overflow-hidden">
           <div className="container">
