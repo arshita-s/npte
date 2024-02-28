@@ -23,7 +23,7 @@ const BlogSidebarPage = () => {
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     2024 National Parliamentary Tournament of Excellence
                   </p>
-                  <iframe src="https://sapphire-deloria-23.tiiny.site" width="100%" height="600px" />
+                  <iframe src="https://docs.google.com/document/d/1hZZTyUI6F3iRlwiR4rUeGNEmxOIG91ihBR0sfJ1-aHo/edit" width="100%" height="600px" />
                 </div>
               </div>
             </div>
