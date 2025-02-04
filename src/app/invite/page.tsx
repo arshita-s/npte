@@ -21,7 +21,7 @@ const BlogSidebarPage = () => {
                 </h1>
                 <div>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    2024 National Parliamentary Tournament of Excellence
+                    2025 National Parliamentary Tournament of Excellence
                   </p>
                   <iframe src="https://docs.google.com/document/d/1hZZTyUI6F3iRlwiR4rUeGNEmxOIG91ihBR0sfJ1-aHo/edit" width="100%" height="600px" />
                 </div>
@@ -33,8 +33,8 @@ const BlogSidebarPage = () => {
                   Key Information
                 </h3>
                 <div className="px-8 py-6">
-                  <h4><b>Location: </b>Whitman College</h4>
-                  <h4><b>Date: </b>April 26-28, 2024</h4>
+                  <h4><b>Location: </b>McKendree University</h4>
+                  <h4><b>Date: </b>March 12-14, 2025</h4>
                 </div>
               </div>
             </div>
